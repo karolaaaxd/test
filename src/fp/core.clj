@@ -7,5 +7,5 @@
   (println x "Cześć AAA!"))
 foo
 "aaa"
-
+5454
 123
