@@ -4,6 +4,7 @@
 ; Comments start with semicolons.
 ;; By conventions, sometimes two ; are used.
 
+
 ; II. Scalars ------------------------------------------------------------------
 ; Integers comprise the entire number set, both positive and negative. Any number
 ; starting with an optional sign or digit followed exclusively by digits is
